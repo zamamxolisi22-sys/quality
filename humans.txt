@@ -1,0 +1,2 @@
+Team: Deltric (Pty) Ltd
+Site: Enterprise static bundle for Netlify — v6

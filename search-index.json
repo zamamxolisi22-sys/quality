@@ -1,0 +1,206 @@
+[
+  {
+    "title": "Home",
+    "url": "/index.html",
+    "content": "Decision-ready intelligence & disciplined execution. Who we help; outcomes; how we work; case studies; insights; gallery; clients; testimonials.",
+    "excerpt": "Decision-ready intelligence & disciplined execution. Who we help; outcomes; how we work; case studies; insights; gallery; clients; testimonials."
+  },
+  {
+    "title": "About",
+    "url": "/about.html",
+    "content": "About Deltric \u2014 principles, locations.",
+    "excerpt": "About Deltric \u2014 principles, locations."
+  },
+  {
+    "title": "Clients",
+    "url": "/clients.html",
+    "content": "Selected clients and references.",
+    "excerpt": "Selected clients and references."
+  },
+  {
+    "title": "Team",
+    "url": "/team.html",
+    "content": "Leadership and delivery team.",
+    "excerpt": "Leadership and delivery team."
+  },
+  {
+    "title": "Careers",
+    "url": "/careers/index.html",
+    "content": "Open roles at Deltric.",
+    "excerpt": "Open roles at Deltric."
+  },
+  {
+    "title": "Senior Consultant \u2014 Procurement Ops",
+    "url": "/careers/senior-consultant.html",
+    "content": "Role description and application form.",
+    "excerpt": "Role description and application form."
+  },
+  {
+    "title": "AI Engineer \u2014 Automation & Agents",
+    "url": "/careers/ai-engineer.html",
+    "content": "Role description and application form.",
+    "excerpt": "Role description and application form."
+  },
+  {
+    "title": "Services",
+    "url": "/services/index.html",
+    "content": "Deltric services overview.",
+    "excerpt": "Deltric services overview."
+  },
+  {
+    "title": "Market Intelligence",
+    "url": "/services/market-intelligence.html",
+    "content": "Signals, pricing, competitors, and opportunities.",
+    "excerpt": "Signals, pricing, competitors, and opportunities."
+  },
+  {
+    "title": "Procurement Operations",
+    "url": "/services/procurement-ops.html",
+    "content": "Operating model, vendor strategy, savings.",
+    "excerpt": "Operating model, vendor strategy, savings."
+  },
+  {
+    "title": "Bids & Tenders",
+    "url": "/services/bids-and-tenders.html",
+    "content": "Win complex RFPs.",
+    "excerpt": "Win complex RFPs."
+  },
+  {
+    "title": "AI Agents & Automation",
+    "url": "/services/ai-agents.html",
+    "content": "Automate workflows.",
+    "excerpt": "Automate workflows."
+  },
+  {
+    "title": "Industries",
+    "url": "/industries/index.html",
+    "content": "Sectors we serve.",
+    "excerpt": "Sectors we serve."
+  },
+  {
+    "title": "Public Sector",
+    "url": "/industries/public-sector.html",
+    "content": "Public sector solutions.",
+    "excerpt": "Public sector solutions."
+  },
+  {
+    "title": "FMCG",
+    "url": "/industries/fmcg.html",
+    "content": "FMCG solutions.",
+    "excerpt": "FMCG solutions."
+  },
+  {
+    "title": "Energy",
+    "url": "/industries/energy.html",
+    "content": "Energy solutions.",
+    "excerpt": "Energy solutions."
+  },
+  {
+    "title": "Transport & Logistics",
+    "url": "/industries/transport-logistics.html",
+    "content": "Transport solutions.",
+    "excerpt": "Transport solutions."
+  },
+  {
+    "title": "Mining",
+    "url": "/industries/mining.html",
+    "content": "Mining solutions.",
+    "excerpt": "Mining solutions."
+  },
+  {
+    "title": "Healthcare",
+    "url": "/industries/healthcare.html",
+    "content": "Healthcare solutions.",
+    "excerpt": "Healthcare solutions."
+  },
+  {
+    "title": "Case Studies",
+    "url": "/case-studies/index.html",
+    "content": "Outcomes and proof.",
+    "excerpt": "Outcomes and proof."
+  },
+  {
+    "title": "Public entity win-rate +22%",
+    "url": "/case-studies/public-win-rate.html",
+    "content": "Bid library & governance outcomes.",
+    "excerpt": "Bid library & governance outcomes."
+  },
+  {
+    "title": "FMCG savings R 12m",
+    "url": "/case-studies/fmcg-savings.html",
+    "content": "Supplier consolidation outcomes.",
+    "excerpt": "Supplier consolidation outcomes."
+  },
+  {
+    "title": "Energy vendor risk visibility",
+    "url": "/case-studies/energy-visibility.html",
+    "content": "Risk dashboards outcomes.",
+    "excerpt": "Risk dashboards outcomes."
+  },
+  {
+    "title": "Transport OTIF +9 pts",
+    "url": "/case-studies/transport-otif.html",
+    "content": "Carrier performance outcomes.",
+    "excerpt": "Carrier performance outcomes."
+  },
+  {
+    "title": "Insights",
+    "url": "/insights/index.html",
+    "content": "Articles and reports.",
+    "excerpt": "Articles and reports."
+  },
+  {
+    "title": "AI in Procurement",
+    "url": "/insights/ai-in-procurement.html",
+    "content": "Connect automation to measurable KPIs.",
+    "excerpt": "Connect automation to measurable KPIs."
+  },
+  {
+    "title": "Tender Strategy",
+    "url": "/insights/tender-strategy.html",
+    "content": "Repeatable win machine.",
+    "excerpt": "Repeatable win machine."
+  },
+  {
+    "title": "Vendor Risk",
+    "url": "/insights/vendor-risk.html",
+    "content": "Live scorecards for vendors.",
+    "excerpt": "Live scorecards for vendors."
+  },
+  {
+    "title": "Contact",
+    "url": "/contact.html",
+    "content": "Discovery call form.",
+    "excerpt": "Discovery call form."
+  },
+  {
+    "title": "Accessibility",
+    "url": "/accessibility.html",
+    "content": "WCAG 2.1 AA intent.",
+    "excerpt": "WCAG 2.1 AA intent."
+  },
+  {
+    "title": "Privacy Policy",
+    "url": "/legal/privacy.html",
+    "content": "Privacy Policy.",
+    "excerpt": "Privacy Policy."
+  },
+  {
+    "title": "Terms of Service",
+    "url": "/legal/terms.html",
+    "content": "Terms of Service.",
+    "excerpt": "Terms of Service."
+  },
+  {
+    "title": "Cookie Policy",
+    "url": "/legal/cookies.html",
+    "content": "Cookie Policy.",
+    "excerpt": "Cookie Policy."
+  },
+  {
+    "title": "Security Policy",
+    "url": "/legal/security.html",
+    "content": "Security Policy.",
+    "excerpt": "Security Policy."
+  }
+]
